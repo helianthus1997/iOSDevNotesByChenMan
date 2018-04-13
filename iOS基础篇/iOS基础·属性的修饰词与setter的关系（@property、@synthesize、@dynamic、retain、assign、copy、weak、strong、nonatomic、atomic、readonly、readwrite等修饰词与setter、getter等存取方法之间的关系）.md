@@ -1,4 +1,4 @@
-iOS基础·属性的修饰词与setter的关系（@property、@synthesize、@dynamic、retain、assign、copy、weak、strong、nonatomic、atomic、readonly、readwrite等修饰词与setter、getter等存取方法之间的关系）
+# iOS基础·属性的修饰词与setter的关系（@property、@synthesize、@dynamic、retain、assign、copy、weak、strong、nonatomic、atomic、readonly、readwrite等修饰词与setter、getter等存取方法之间的关系）
 
 
 > 很多人讲属性修饰词的时候，喜欢从字面或者定义的角度介绍它们间的区别。这篇文章，我们侧重从修饰词对setter方法的影响直接展示区别。
