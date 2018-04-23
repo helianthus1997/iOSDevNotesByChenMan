@@ -566,7 +566,9 @@ Block可能会导致循环引用问题，因为block在拷贝到堆上的时候�
 ```
 - (void) dealloc {
     NSLog(@"no cycle retain");
-} - (id) init {
+} 
+
+- (id) init {
     self = [super init];
     if (self) {
 
