@@ -563,6 +563,8 @@ int main(int argc, charchar *argv[]) {
 
 Block可能会导致循环引用问题，因为block在拷贝到堆上的时候，会retain其引用的外部变量，那么如果block中如果引用了他的宿主对象，那很有可能引起循环引用，如：
 
+- TestCycleRetain
+
 ```
 - (void) dealloc {
     NSLog(@"no cycle retain");
@@ -603,11 +605,18 @@ Block可能会导致循环引用问题，因为block在拷贝到堆上的时候�
     }
     return self;
 
-} - (void) doSomething {
+} 
+
+- (void) doSomething {
     NSLog(@"do Something");
 }
 
-int main(int argc, char * argv[]) {@autoreleasepool {
+```
+- main
+
+```
+int main(int argc, char * argv[]) {
+    @autoreleasepool {
         TestCycleRetain * obj = [[TestCycleRetain alloc] init];
         obj = nil;
         return 0;
