@@ -28,6 +28,17 @@
 - [iOS框架·Masonry源码深度解析及学习启示:设计模式与链式编程思想](https://github.com/cimain/iOSDevNotesByChenMan/blob/master/iOS%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0%E8%A7%A3%E8%AF%BB/iOS%E6%A1%86%E6%9E%B6%C2%B7Masonry%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%8F%8A%E5%AD%A6%E4%B9%A0%E5%90%AF%E7%A4%BA:%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E9%93%BE%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3.md#ios%E6%A1%86%E6%9E%B6masonry%E6%BA%90%E7%A0%81%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%8F%8A%E5%AD%A6%E4%B9%A0%E5%90%AF%E7%A4%BA%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E9%93%BE%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3)
 
 
+# 了解更多
+
+- [简书地址](https://www.jianshu.com/u/508ba9810059)
+
+- [掘金地址](https://juejin.im/user/59530ee95188250d841c9012)
+
+- [个人网址](http://limbank.com/)
+
+- [E-mail：cimain@qq.com](vip@limbank.com)
+
+
 
 
 
